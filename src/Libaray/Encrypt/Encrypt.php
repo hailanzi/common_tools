@@ -1,5 +1,5 @@
 <?php
-namespace Common\Tool;
+namespace Common;
 
 class Encrypt {
 	
