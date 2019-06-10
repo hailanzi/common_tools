@@ -1,0 +1,19 @@
+{
+    "name": "common/tools",
+    "description": "公共工具",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangch",
+            "email": "wangchunhui@51-dg.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Common\\": "src/Library"
+        }
+    },
+    "require": {}
+}
+
