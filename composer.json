@@ -1,5 +1,5 @@
 {
-    "name": "common/tools",
+    "name": "hailanzi/common_tools",
     "description": "公共工具",
     "type": "library",
     "license": "MIT",
