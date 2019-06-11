@@ -14,6 +14,8 @@
             "Common\\": "src/Library"
         }
     },
-    "require": {}
+    "require": {
+
+    }
 }
 
